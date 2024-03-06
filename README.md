@@ -122,18 +122,6 @@ Frontend-developer from Ekaterinburg
       </a>
       <br>MUI
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#axxxius-stack" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#axxxius-stack" >
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
     <td align="center" width="110" height="90">
       <a href="#axxxius-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
