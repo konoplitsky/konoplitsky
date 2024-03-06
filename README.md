@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 My name is Ilya Konoplitsky</h1>
+<h1 align="left">👋 Hello there! I'm Ilya Konoplitsky</h1>
 
 ###
 
