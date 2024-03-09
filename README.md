@@ -6,7 +6,7 @@ Frontend-developer from Ekaterinburg
   🔭 I am currently studying at the Ural Federal University in the 3rd year as a software engineer
 </p>
 
-<h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
+<h2 align="left" id="axxxius-stack">🔥 Tech stack</h2>
 
 > General
 
@@ -134,4 +134,3 @@ Frontend-developer from Ekaterinburg
 ## ☄️ Contact
 - :robot: &nbsp;**[VK](https://vk.com/ilya_konoplitsky)**
 - :airplane: &nbsp;**[Telegram](https://t.me/ilyaa101)**
-- :comet: &nbsp;**[Github](https://github.com/axxxius)**
