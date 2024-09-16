@@ -1,7 +1,6 @@
 <h1 align="left">:wave: Hello there! I'm Ilya Konoplitsky</h1>
 
 - 🌱 Frontend-developer from Ekaterinburg
-- 🔭 I am currently studying at the Ural Federal University in the 3rd year as a software engineer
 
 ## Tech stack
 
@@ -19,6 +18,7 @@
 
 ### Frontend:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tanstack-query](https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=Recoil&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
