@@ -24,6 +24,3 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
-
-## Profile card
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axxxius&theme=discord_old_blurple)
